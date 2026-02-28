@@ -12,7 +12,7 @@ Por aqui, você vai encontrar os projetos práticos onde coloco meus estudos à 
 
 <br>
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Linguagens & Frameworks:**
 <br>
