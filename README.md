@@ -9,13 +9,10 @@ Por aqui, você vai encontrar os projetos práticos onde coloco meus estudos à 
 * Modelagem, otimização e consumo de bancos de dados relacionais (**PostgreSQL**).
 * Testes automatizados para garantir a resiliência e a qualidade do código.
 * Empacotamento de aplicações e ambientes de desenvolvimento isolados com containers.
+* Repositório de estudo com diversos tópicos de estudo com exercícios resolvidos.
 
 <br>
 
 ### Tecnologias e Ferramentas
-
-### 💻 Tecnologias e Ferramentas
-
-### 💻 Tecnologias e Ferramentas
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
