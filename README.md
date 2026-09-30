@@ -5,7 +5,7 @@
   <p><strong>Desenvolvedor Backend & Engenheiro de Software</strong> focado no ecossistema <strong>Java & Spring Boot</strong>, arquiteturas distribuídas, concorrência, consistência transacional e integração com Inteligência Artificial.</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-b76726312/" target="_blank">
+    <a href="www.linkedin.com/in/andré-luís-main" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:andreluis.souza@usp.br" target="_blank">
