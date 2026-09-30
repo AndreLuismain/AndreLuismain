@@ -21,7 +21,7 @@
 
 ## 🚀 Sobre Mim & Visão de Engenharia
 
-Sou graduando em **Sistemas de Informação** pelo **ICMC-USP (São Carlos)**, com forte base analítica em Algoritmos, Estruturas de Dados e Teoria da Computação. Minha atuação prática é dedicada à **Engenharia de Software de Back-end**, construindo aplicações robustas, auditáveis e resilientes sob alta concorrência.
+Sou graduando em **Sistemas de Informação** pelo **ICMC-USP (São Carlos)**, com forte base analítica em Algoritmos, Estruturas de Dados e Teoria da Computação. Minha atuação prática é dedicada à **Engenharia de Software de Back-end**, construindo aplicações robustas, auditáveis, resilientes sob alta concorrência e interações focadas na rede, web ou services.
 
 Acredito que um software backend de qualidade vai além do simples "funcionar": ele deve garantir integridade atômica dos dados, tolerância a falhas, contratos de API consistentes e código limpo, amplamente coberto por testes automatizados.
 
@@ -130,8 +130,12 @@ Você pode conferir as implementações completas no repositório [**`Java-Proje
 ## 🎓 Formação Acadêmica
 
 - **Bacharelado em Sistemas de Informação**  
-  *Instituto de Ciências Matemáticas e de Computação — Universidade de São Paulo (ICMC-USP)*  
+  *Instituto de Ciências Matemáticas e de Computação — Universidade de São Paulo (ICMC-USP)* 
   - Foco em Computação, Engenharia de Software, Modelagem de Bancos de Dados e Algoritmos.
+ 
+- **Técnico em Redes de Computadores**  
+  *SENAI UI Aloysio Ribeiro de Almeida — Senai (Varginha-MG)*
+  - Foco em contrução e manutenção de redes de computadores, do RJ45 á arquitetura de redes.
 
 ---
 
