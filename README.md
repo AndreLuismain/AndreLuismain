@@ -1,20 +1,9 @@
-# Olá! Eu sou o André Luís 👋
+# Olá! Eu sou o André Luís 
 
 <div align="center">
   <h3>🎓 Sistemas de Informação — <strong>ICMC · Universidade de São Paulo (USP)</strong></h3>
   <p><strong>Desenvolvedor Backend & Engenheiro de Software</strong> focado no ecossistema <strong>Java & Spring Boot</strong>, arquiteturas distribuídas, concorrência, consistência transacional e integração com Inteligência Artificial.</p>
 
-  <p>
-    <a href="www.linkedin.com/in/andré-luís-main" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:andreluis.souza@usp.br" target="_blank">
-      <img src="https://img.shields.io/badge/Email%20USP-C4161C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email USP" />
-    </a>
-    <a href="https://github.com/AndreLuismain" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
 </div>
 
 ---
@@ -107,33 +96,21 @@ Você pode conferir as implementações completas no repositório [**`Java-Proje
   - **Classificador de Complexidade Determinístico:** Avalia tamanho, densidade de tokens, quebras de seção e termos técnicos de domínio para roteamento automático (`FAST` vs `ROBUST`).
   - **Rastreabilidade Distribuída:** Propagação reativa de `X-Correlation-Id` em toda a esteira.
 
-### 🔍 [11 · Motor de Recomendação de Pesquisas Acadêmicas](https://github.com/AndreLuismain/Java-Projects/tree/main/11-motor-recomendacao-pesquisas)
-> **Problema:** Ingestão heterogênea de editais e geração de ranking de compatibilidade explicável e auditável para estudantes de Iniciação Científica.
-- **Solução & Destaques:**
-  - **Pipeline ETL Completa:** Camada de extração tolerante a aliases múltiplos (`vaga`, `titulo`, `skills`, `techs`), transformação canônica e deduplicação semântica via hash **SHA-256**.
-  - **Scoring Híbrido & Auditável:** O componente determinístico garante no mínimo 60% do peso final (evitando alucinações de modelos generativos), com enriquecimento semântico por LLM e resolução determinística de empates por prazo de inscrição e título.
-
 ### 📄 [10 · Agente Documentador de Código Legado](https://github.com/AndreLuismain/Java-Projects/tree/main/10-agente-documentador-legado)
 > **Problema:** Análise de código-fonte legado (COBOL, Pascal, C, etc.) e documentação técnica em larga escala sem exposição a riscos de segurança.
 - **Solução & Destaques:**
   - **Segurança em Uploads:** Proteção ativa contra ataques de *path traversal*, rejeição de executáveis/extensões não autorizadas e sanitização automática de credenciais aparentes antes da análise.
   - **Cache e Idempotência:** Armazenamento referenciado por hash SHA-256 do conteúdo, reaproveitando análises de mesma versão de prompt e otimizando custos de inferência.
 
-### 📅 [07 · Agendamento Concorrente de Salas e Laboratórios](https://github.com/AndreLuismain/Java-Projects/tree/main/07-agendamento-laboratorios-salas)
-> **Problema:** Agendamento concorrente de recursos acadêmicos prevenindo reservas duplicadas em janelas temporais contínuas.
-- **Solução & Destaques:**
-  - **Prevenção de Conflitos:** Query de sobreposição temporal (`startAt < :endAt AND endAt > :startAt`) acoplada a bloqueio pessimista de escrita.
-  - **Relatórios em Conformidade RFC 4180:** Exportação semanal de métricas de utilização de salas em formato CSV formatado conforme as normas internacionais.
-
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Bacharelado em Sistemas de Informação**  
+- **Bacharelado em Sistemas de Informação**  (Em Andamento)  
   *Instituto de Ciências Matemáticas e de Computação — Universidade de São Paulo (ICMC-USP)* 
   - Foco em Computação, Engenharia de Software, Modelagem de Bancos de Dados e Algoritmos.
  
-- **Técnico em Redes de Computadores**  
+- **Técnico em Redes de Computadores**  (Concluído)  
   *SENAI UI Aloysio Ribeiro de Almeida — Senai (Varginha-MG)*
   - Foco em contrução e manutenção de redes de computadores, do RJ45 á arquitetura de redes.
 
@@ -148,10 +125,3 @@ Você pode conferir as implementações completas no repositório [**`Java-Proje
 
 ---
 
-## 📬 Contato & Conexões
-
-Estou sempre aberto a conversar sobre **oportunidades de estágio ou júnior em desenvolvimento Backend**, projetos inovadores e tecnologia em geral!
-
-- 💼 **LinkedIn:** [linkedin.com/in/andré-luís-b76726312](https://www.linkedin.com/in/andr%C3%A9-lu%C3%ADs-b76726312/)
-- ✉️ **Email Acadêmico:** [andreluis.souza@usp.br](mailto:andreluis.souza@usp.br)
-- 🐙 **GitHub:** [@AndreLuismain](https://github.com/AndreLuismain)
